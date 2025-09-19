@@ -1,5 +1,6 @@
 \[!\[Open in MATLAB Online]
 
+
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del\la estudiante
